@@ -7,7 +7,20 @@ This is a simple **Contact Form** built with **React** and **EmailJS**. It allow
 - **Clean and responsive design**.
 - **Easy to integrate** into any React project.
 
-### Live Demo
-[Live@](https://naz-contact-form.netlify.app/)
+### Live Demo:
+[Live Demo](https://naz-contact-form.netlify.app/)
 
 ---
+
+### Screenshots:
+
+#### Large Screen:
+
+![Large Screen](<Screenshot (4).png>)
+
+#### Small Screen:
+
+![Small Screen](<Screenshot (5).png>)
+
+---
+
